@@ -7,8 +7,8 @@
   </samp>
 </p>
 
-## OS
-<img src="https://github.com/doanhmaple/doanhmaple/blob/master/OpenCore.png>
+## Hmm...
+<img src="https://github.com/doanhmaple/doanhmaple/blob/master/OpenCore.png" height="50">
 
 ## Modern
 <img src="https://github.com/doanhmaple/doanhmaple/blob/master/Firebase_Logo_Logomark.png?raw=true" height="50"> <img src="https://raw.githubusercontent.com/doanhmaple/doanhmaple/f629177f82a4fadea4b143e2a30d4fb05abaf0ff/javascript-original.svg" height="50"> <img src="https://raw.githubusercontent.com/doanhmaple/doanhmaple/d412f2f6daca75653365778db2a7087a29c4c15c/swift-original.svg" height="50"> <img src="https://raw.githubusercontent.com/doanhmaple/doanhmaple/d412f2f6daca75653365778db2a7087a29c4c15c/git-original.svg" height="50"> <img src="https://raw.githubusercontent.com/doanhmaple/doanhmaple/f629177f82a4fadea4b143e2a30d4fb05abaf0ff/vue-logo.svg" height="50">
