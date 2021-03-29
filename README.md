@@ -6,4 +6,4 @@
     <br>LEARNINGと完了 ！！<br>
   </samp>
 </p>
-<img width="500" src="https://github.com/quoctrung163/quoctrung163/blob/master/github-metrics.svg">
+<img width="500" src="https://github.com/doanhmaple/doanhmaple/blob/master/github-metrics.svg">
