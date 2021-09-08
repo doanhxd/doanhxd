@@ -4,5 +4,6 @@
     <br>I'm Doanh Maple, student at Dalat University!
     <br>I love to learn Web Development & research for Hackintosh :sparkles:<br>
     <br>LEARNINGと完了 ！！<br>
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&lines=The+strongest+wings+bearing+the+fire+of+hell)](https://git.io/typing-svg)
   </samp>
 </p>
